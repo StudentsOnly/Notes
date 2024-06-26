@@ -30,6 +30,10 @@
 - Install Live Server
 - If/when you have extra time, I recommend going through the settings of *everything*
 
+## Keyboard shortcuts
 
+(- It's also worth it to look up productivity tips videos / blogs etc)
+
+- Instead of using the mouse, use the keyboard
 
 

@@ -159,11 +159,10 @@ Exercise: https://classroom.github.com/a/k4zGmrf2
     - `\` -- backslash
     - `-` -- hyphen, dash, minus
     - `|` -- vertical line, pipe
-    - `(` and `)` -- parentehehehses
+    - `(` and `)` -- parentheses
     - `[` and `]` -- brackets, square brackets, big brackets
     - `{` and `}` -- curly braces, middle brackets
     - `<` and `>` -- Greater than, smaller than
-
 
 - 15 minute exercise
     - Let's practice typing these on your keyboard

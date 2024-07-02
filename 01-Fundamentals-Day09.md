@@ -13,6 +13,10 @@
 - Codepen is a really neat platform that I want to introduce to you
 - It's great for little web dev demos that you can share with others
 
+- Examples
+    - https://codepen.io/Joel-Peltonen/pen/oNRrKqv
+    - https://codepen.io/Joel-Peltonen/pen/abMqQaB
+
 - 15 minute mini exercise
     - Register or log into codepen (you can use your @dci-student.org account if you want)
     - Create a new pen
@@ -23,6 +27,8 @@
 
 ## Bootstrap
 
+- [Live coding](./01-Fundamentals-Day09-code/bootstrap.html)
+
 - For those who think the front end visual stuff is an unfortunately necessary evil
 
 - Creating pages is slow and kinda hard
@@ -30,6 +36,7 @@
 - This is an example of using libraries / tools that others have made
 
 - https://vaibhav1276.github.io/
+    - This is based on Bootstrap too! It also has some custom CSS mixed in :)
 
 ## Publishing a page with GitHub pages
 
@@ -44,7 +51,6 @@
 - It's a hosting service that allows us to server our pages
 - It's free (for us, naturally Microsoft has to pay a little)
 - There aren't many limitations
-
 
 - You can use a custom domain, if we wish
     - Repository https://github.com/Req/experiments

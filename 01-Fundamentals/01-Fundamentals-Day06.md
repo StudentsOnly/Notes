@@ -5,7 +5,7 @@
 - So when working on code, I recommend _always_ working with a project folder
     - Even for little tiny tests
     - Keep your projects organized, I recommend a folder like `~/projects`
-    - Always when working with VS Code (ant IntelliJ IDEA), open up a folder
+    - Always when working with VS Code (and IntelliJ IDEA), open up a folder
     - Don't open individual files
     - Need just one file? Create folder with one file :)
     - VS Code doesn't work as well when opening a single file at a time
@@ -41,12 +41,12 @@
         - Alt-F4 -- closes the current window
         - Ctrl+w -- closes the current tab
         - Alt-Tab -- switch between windows
-        - Ctrl-C -- copy selected textdasdasd
+        - Ctrl-C -- copy selected text
         - Ctrl-X -- cut selected text
         - Ctrl-V -- paste content from clipboard
         - Ctrl-Z -- undo the previous action
         - Ctrl-Alt-Entf/Del -- open running processes
-        - Holding Shift or Ctrl to hilight/select content
+        - Holding Shift or Ctrl to highlight/select content
         - Ctrl-Shift-Arrow - select something
         - Ctrl-S -- Save the current file
         - Ctrl-N -- Open new [thing]

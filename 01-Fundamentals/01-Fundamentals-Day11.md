@@ -261,14 +261,9 @@ public class Demo {
 - The default value of any object, such as `String` or `Integer`
 - We cannot assign null to primitive types; int, double, boolean
 
-- While program is running, `ps a`
-    - PID - program  id
+## Running processes
+
+- While program is running, `$ ps a` to view all processes
+    - Each program/process has a PID - process id
     - `$ kill 123` - ends the process "123" (normally)
     - `$ pkill chrome` - ends all "chrome" processes (normally)
-
-
-
-
-
-
-

@@ -1,4 +1,4 @@
-## Java Module - Day 1 Notes
+## Java Module - Day 2 Notes
 
 ### Key Concepts
 

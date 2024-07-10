@@ -1,4 +1,4 @@
-## Java Day 3 - Lesson Notes & Code! :)
+## Java Module Day 3 - Lesson Notes & Code! :)
 
 ### Introduction
 In this lesson, we covered the basics of Java classes, objects, methods, and the difference between pass-by-value and pass-by-reference. We also touched on constructors, getters and setters, toString method, and recursion.

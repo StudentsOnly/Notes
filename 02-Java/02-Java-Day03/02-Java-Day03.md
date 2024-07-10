@@ -19,9 +19,9 @@ In this lesson, we covered the basics of Java classes, objects, methods, and the
 public class App {
     public static void main(String[] args) {
         App app = new App();
+
         int value = 8;
         System.out.println("1. Value is: " + value);
-
         app.display(value);
         System.out.println("4. Value is: " + value);
 

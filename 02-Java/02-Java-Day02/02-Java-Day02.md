@@ -1,4 +1,4 @@
-## Java Module - Day 2 Notes & Code
+## Java Module Day 2 - Lesson Notes & Code! :)
 
 ### Key Concepts
 

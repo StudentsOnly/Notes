@@ -43,3 +43,8 @@
     - BUT! If AI generates a regex for you
     - Make sure you take the time to understand it!
 
+- Where I use regex the most is actually find operations in my editor!
+
+## Exercise
+
+- https://classroom.github.com/a/K3YJ8kfI

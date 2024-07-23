@@ -132,7 +132,7 @@
         - DateTimeFormatter can actually help read time as well as print it!
         - Remember `ZonedDateTime.parse("2020-04-19T09:45:00Z");` ?
         - DateTimeFormatter can help parse `ZonedDateTime` from strange formats
-        - Examine this inputString: "2023.07.20 22.59.14"
+        - Examine this inputString: "2023.07.20 22.59.14" -- !! NOTE !! MISTAKE HERE, SHOULD INCLUDE TIMEZONE AS "2023.07.20 22.59.14 UTC"
         - Create a `DateTimeFormatter` that matches to variable `formatter`
         - Examine `ZonedDateTime.parse(inputString, formatter);`
         - Can you parse that to a `ZonedDateTime` from the inputString like so?

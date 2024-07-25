@@ -62,6 +62,8 @@ java.lang.NullPointerException: Cannot invoke method length() on null object
 - Mainly debugging is the process of fixing a bug in a program
 - BUT it's also useful for learning how a program works
 
+- HEY! Cool that you are reading this after we already did this in class! Here's a happy Koala to keep you company: 🐨
+
 ### Debugging strategies
 
 - Static analysis
